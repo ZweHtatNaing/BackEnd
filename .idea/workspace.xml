@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01a91d09-313f-4ad8-9284-3b85f3d5ad4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WyMuFdIKLibszwbH447ZQT6tCV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model/user-model" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\own projects\interview\zwe-api\model\user-model" />
+      <recent name="D:\projects\own projects\interview\zwe-api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a91d09-313f-4ad8-9284-3b85f3d5ad4d" name="Default Changelist" comment="" />
+      <created>1580117601753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580117601753</updated>
+      <workItem from="1580117603005" duration="1932000" />
+      <workItem from="1580124144609" duration="25314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="208" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580130931500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580130931500" />
+    <state x="543" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580125132874" />
+    <state x="500" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580136829175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580136829175" />
+    <state width="1534" height="413" key="DebuggerActiveHint" timestamp="1580141124510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1534" height="413" key="DebuggerActiveHint/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580141124510" />
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1580124606334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580124606334" />
+    <state width="1515" height="152" key="GridCell.Tab.0.bottom" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.0.center" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.0.left" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.0.right" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.1.bottom" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.1.center" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.1.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.1.left" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.1.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.1.right" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.1.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.2.bottom" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.2.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.2.center" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.2.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.2.left" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.2.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.2.right" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.2.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.3.bottom" timestamp="1580176803244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.3.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803244" />
+    <state width="1515" height="152" key="GridCell.Tab.3.center" timestamp="1580176803244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.3.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803244" />
+    <state width="1515" height="152" key="GridCell.Tab.3.left" timestamp="1580176803243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.3.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803243" />
+    <state width="1515" height="152" key="GridCell.Tab.3.right" timestamp="1580176803244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="152" key="GridCell.Tab.3.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580176803244" />
+    <state x="451" y="24" width="635" height="777" key="find.popup" timestamp="1580165126813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="24" width="635" height="777" key="find.popup/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1580165126813" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/auth.js</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/auth.js</url>
+          <line>22</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/user-controller.js</url>
+          <line>43</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/user-controller.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
